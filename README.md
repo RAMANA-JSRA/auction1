@@ -1,6 +1,6 @@
-#**Online Auction System ‑ MERN**                                                                                Sep 2023 ‑ Nov 2023
-##E‑commerce, Team Project*
-###Deployment link:  https://ramana-jsra.github.io/auction1/
+# **Online Auction System ‑ MERN**                                                                                Sep 2023 ‑ Nov 2023
+## E‑commerce, Team Project*
+### Deployment link:  https://ramana-jsra.github.io/auction1/
 ```
 1. Enabled real‑time bidding functionality using WebSockets, allowing users to place bids and receive immediate updates on auction
 status without refreshing the page.
